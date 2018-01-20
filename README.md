@@ -58,3 +58,4 @@ cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install
       --api-worker-id=ID   custom worker-id for API
   -h, --help               display this help and exit
   -V, --version            output version information and exit
+  
