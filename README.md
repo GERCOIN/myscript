@@ -2,36 +2,35 @@
 
 
 # SCRIPT TỰ ĐỘNG ĐÀO COIN BẰNG LINUX VPS - UBUNTU 16.04
->  AECOIN
 ```bash
-echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
-
-cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./aeon1.sh
-```
-
+>  AECOIN
 
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
 cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./aeon1.sh
 
-INTENSE
+echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
+
+cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./aeon1.sh
+
+> INTENSE
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
 cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./intense.sh
 
-SUMOKOIN
+> SUMOKOIN
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
 cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./sumokoin.sh
 
-KARBO
+> KARBO
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
 cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./karbo.sh
 
-FONERO
+> FONERO
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
 cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./fonero.sh
-
+```
 # OPTION
