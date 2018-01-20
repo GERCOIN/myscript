@@ -1,8 +1,8 @@
 # Script Mining
 
 
-> SCRIPT TỰ ĐỘNG ĐÀO COIN BẰNG LINUX VPS - UBUNTU 16.04
-# AECOIN
+# SCRIPT TỰ ĐỘNG ĐÀO COIN BẰNG LINUX VPS - UBUNTU 16.04
+>  AECOIN
 
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
