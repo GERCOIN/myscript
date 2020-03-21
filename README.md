@@ -7,30 +7,30 @@
 
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
-cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./aeon1.sh
+cd && wget https://raw.githubusercontent.com/GERCOIN/myscript/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./aeon1.sh
 
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
-cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./aeon1.sh
+cd && wget https://raw.githubusercontent.com/GERCOIN/myscript/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./aeon1.sh
 
 > INTENSE
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
-cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./intense.sh
+cd && wget https://raw.githubusercontent.com/GERCOIN/myscript/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./intense.sh
 
 > SUMOKOIN
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
-cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./sumokoin.sh
+cd && wget https://raw.githubusercontent.com/GERCOIN/myscript/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./sumokoin.sh
 
 > KARBO
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
-cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./karbo.sh
+cd && wget https://raw.githubusercontent.com/GERCOIN/myscript/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./karbo.sh
 
 > FONERO
 echo -e "thienthan1412\nthienthan1412" | sudo passwd root && su root
 
-cd && wget https://raw.githubusercontent.com/secrectvn/automining/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./fonero.sh
+cd && wget https://raw.githubusercontent.com/GERCOIN/myscript/master/install.sh && chmod +x install.sh && ./install.sh && chmod +x *.sh && ./fonero.sh
 ```
 # OPTION
